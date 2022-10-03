@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Atividade 1 de Estrutura Sequencial
+Atividade 3 de Estrutura Sequencial
 
 ## Folder Structure
 
